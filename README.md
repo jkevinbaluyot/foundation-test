@@ -1,24 +1,9 @@
-# README
+# Foundation + Rails 7 Tutorial
+---
+Blog Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## by John Kevin Baluyot
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Articles used as reference:
+- [Devto](https://dev.to/jkevinbaluyot/foundation-rails-7-tutorial-2ie0)
+- [Hashnode](https://webology.hashnode.dev/foundation-rails-7-tutorial)
